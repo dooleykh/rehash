@@ -1,4 +1,4 @@
 rehash
 ======
 
-Reimplemnting common data structures and algorithms
+Reimplementing common data structures and algorithms
